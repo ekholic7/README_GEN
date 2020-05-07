@@ -27,7 +27,8 @@ ${data.tests}
 
 ## Questions
 
-Any questions? Email me at <a href="mailto:${data.email}">${data.email}</a>
+Any questions? Email me!
+
 <img src="${data.image}" alt="imageOfMe" width="100" height="100">
 
 `;

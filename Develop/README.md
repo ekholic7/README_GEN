@@ -26,6 +26,7 @@ No test at in this verison
 
 ## Questions
 
-Any questions? Email me at <a href="mailto:null">null</a>
+Any questions? Email me!
+
 <img src="https://avatars2.githubusercontent.com/u/61419452?v=4" alt="imageOfMe" width="100" height="100">
 
